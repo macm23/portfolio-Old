@@ -1,8 +1,15 @@
 ---
-Logo: image/logoleaves.jpg
+Logo: image/flower-4148707_200.png
 Tagline: My portfolio.
 Social:
-    - title: Link till sidans github repo.
-      url: https://github.com/dbwebb-se/design-v3
-      icon: github
+    - title: Länk till sidans github repo
+      url: https://github.com/macm23
+      icon: fab fa-github fa-2x
+    - title: Instagram
+      url: https://instagram.com
+      icon: fab fa-instagram fa-2x
+    - title: Google
+      url: https://google.com
+      icon: fab fa-google fa-2x
+
 ---
